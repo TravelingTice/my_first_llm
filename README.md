@@ -17,3 +17,4 @@ See plan.txt for some things I still want to do and experiment with this LLM. I 
 - **llm:** Folder containing most of the end product GPT code
 - **extract_text_corpus.py:** Script to extract text from `openwebtext` folder containing huge amount of text in xz compressed files, combines it to create a train and val split text file, used for generating random chunks in `train_data` folder
 - **comment.txt:** Comment saved from python tutorial on some mac-specific settings
+- **research.md:** Carrying out the things in `plan.txt` and sort of doing a bit of general research. Putting some results and notes in this markdown doc.
