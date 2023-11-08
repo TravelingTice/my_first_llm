@@ -1,0 +1,19 @@
+# Virtual environment used locally for python
+VirtualEnv
+
+# Data which can be huge
+train_data
+openwebtext
+
+# Saved models after training as these can be pretty large as well
+llm/*.pkl
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints
+
+# Pycache
+__pycache__
+llm/__pycache__
+
+# misc
+.DS_Store

@@ -1,0 +1,6 @@
+Things I still want to try out and explore with my LLM:
+
+1. Train current setup with around 10000 iterations and see the results
+2. Optimize hyperparams based on current GPU power. Maybe delve into what Elliot mentioned (fine-tuning or something like that) or just monitoring GPU usage
+3. Try different hyperparam values... and save all GPT models in a different pkl file (maybe write a script for this or something)
+
